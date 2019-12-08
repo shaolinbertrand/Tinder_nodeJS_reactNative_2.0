@@ -1,2 +1,0 @@
-segue o link para o repositorio git onde consta o projeto backend e frontend alem, do video de apresentação
-https://github.com/shaolinbertrand/Tinder_nodeJS_reactNative_2.0
