@@ -1,0 +1,152 @@
+[
+  {
+    "title": "Nayara",
+    "user": "powerlove",
+    "sexo": "F",
+    "password": "amorverdadeiro",
+    "description": "malignus venha para a luz",
+    "idade": "29",
+    "url": "https://raw.githubusercontent.com/shaolinbertrand/Tinder_nodeJS_reactNative_2.0/master/imagens/nayara.jpg"
+    "preference": "M"
+  },
+  {
+    "title": "Marcus",
+    "user": "malignus",
+    "sexo": "M",
+    "password": "aldebaran",
+    "description": "malignus venha para a luz",
+    "idade": "27",
+    "url": "https://raw.githubusercontent.com/shaolinbertrand/Tinder_nodeJS_reactNative_2.0/master/imagens/marcus.jpg",
+    "preference": "F"
+  },
+  {
+    "title": "Jean Bertrand",
+    "user": "shaolinbertrand",
+    "password": "ArrozComFeijao",
+    "description": "a procura de alguem que me faça rir",
+    "sexo": "M",
+    "idade": "26",
+    "url": "https://raw.githubusercontent.com/shaolinbertrand/Tinder_nodeJS_reactNative_2.0/master/imagens/jean.jpg",
+    "preference": "F"
+  },
+  {
+    "title": "Maycon Douglas",
+    "user": "michael",
+    "password": "nucaMaisEuVouDormir",
+    "description": "chama no probleminha bb",
+    "sexo": "M",
+    "idade": "25",
+    "url": "https://raw.githubusercontent.com/shaolinbertrand/Tinder_nodeJS_reactNative_2.0/master/imagens/maycon.jpg",
+    "F"
+  },
+  {
+    "title": "Naruto Uzumaki",
+    "user": "novecaldas",
+    "password": "sasuske",
+    "description": "eu nunca volto atras na minha promessa",
+    "sexo": "M",
+    "idade": "17",
+    "url": "https://raw.githubusercontent.com/shaolinbertrand/Tinder_nodeJS_reactNative_2.0/master/imagens/naruto.jpg",
+    "preference": "F"
+  },
+  {
+    "title": "Douglas",
+    "user": "dougFanny",
+    "password": "12345",
+    "description": "apenas amizades",
+    "sexo": "M",
+    "idade": "18",
+    "url": "https://raw.githubusercontent.com/shaolinbertrand/Tinder_nodeJS_reactNative_2.0/master/imagens/douglas.jpg",
+    "preference": "F"
+  },
+  {
+    "title": "Matheus Bedoni",
+    "user": "mito",
+    "password": "neydeus",
+    "description": "I'm batman",
+    "sexo": "M",
+    "idade": "22",
+    "url": "https://raw.githubusercontent.com/shaolinbertrand/Tinder_nodeJS_reactNative_2.0/master/imagens/bedoni.jpg",
+    "preference": "F"
+  },
+  {
+    "title": "leticia",
+    "user": "leti123",
+    "sexo": "F",
+    "password": "sarranasnovinhas",
+    "description": "olá baby",
+    "idade": "24",
+    "url": "https://raw.githubusercontent.com/shaolinbertrand/Tinder_nodeJS_reactNative_2.0/master/imagens/leticia.jpg",
+    "preference": "M"
+  },
+  {
+    "title": "clotilde",
+    "user": "lulalivre",
+    "sexo": "F",
+    "password": "ptmaiorquetudo",
+    "description": "primeiramente fora temer",
+    "idade": "30",
+    "url": "https://raw.githubusercontent.com/shaolinbertrand/Tinder_nodeJS_reactNative_2.0/master/imagens/clotilde.jpg",
+    "preference": "M"
+  },
+  {
+    "title": "amanda",
+    "user": "beloved",
+    "sexo": "F",
+    "password": "senhaextremamentedificil",
+    "description": "coloco feijao por cima do arroz",
+    "idade": "25",
+    "url": "https://raw.githubusercontent.com/shaolinbertrand/Tinder_nodeJS_reactNative_2.0/master/imagens/amanda.jpg",
+    "preference": "M"
+  },
+  {
+    "title": "Dora",
+    "user": "aventureira",
+    "sexo": "F",
+    "password": "dicoverykids",
+    "description": "arqueologa nutella",
+    "idade": "18",
+    "url": "https://raw.githubusercontent.com/shaolinbertrand/Tinder_nodeJS_reactNative_2.0/master/imagens/dora.jpg",
+    "preference": "M"
+  },
+  {
+    "title": "Lara Croft",
+    "user": "tombrider",
+    "sexo": "F",
+    "password": "angelinajolie",
+    "description": "arqueologa raiz",
+    "idade": "35",
+    "url": "https://raw.githubusercontent.com/shaolinbertrand/Tinder_nodeJS_reactNative_2.0/master/imagens/lara.jpg",
+    "preference": "M"
+  },
+  {
+    "title": "Marcia",
+    "user": "marciana",
+    "sexo": "F",
+    "password": "abdução",
+    "description": "vamos para uma rave",
+    "idade": "19",
+    "url": "https://raw.githubusercontent.com/shaolinbertrand/Tinder_nodeJS_reactNative_2.0/master/imagens/marcia.jpg",
+    "preference": "M"
+  },
+  {
+    "title": "Gertruds",
+    "user": "cenouralaranja",
+    "sexo": "F",
+    "password": "VelhaComGrana",
+    "description": " A procura de alguem maduro",
+    "idade": "55",
+    "url": "https://raw.githubusercontent.com/shaolinbertrand/Tinder_nodeJS_reactNative_2.0/master/imagens/gertruds.jpg",
+    "preference": "M"
+  },
+  {
+    "title": "Marcia Clara",
+    "user": "marciana",
+    "sexo": "F",
+    "password": "abduzida",
+    "description": " A procura de minha felicidade",
+    "idade": "35",
+    "url": "https://raw.githubusercontent.com/shaolinbertrand/Tinder_nodeJS_reactNative_2.0/master/tinderappjean/src/screens/assets/marcia.jpg",
+    "preference": "M"
+  }
+]
