@@ -1,0 +1,15 @@
+referencias 
+
+https://github.com/wcandillon/can-it-be-done-in-react-native/tree/master/season1/tinder-swiping/assets
+
+https://rubygarage.org/blog/how-to-develop-an-app-like-tinder&prev=search
+
+https://www.sitepoint.com/cloning-tinder-using-react-native-elements-expo/&prev=search
+
+https://skylab.rocketseat.com.br/?to=%2Fnode%2Fcurso-node-js
+
+http://guides.railsgirls.com/guides-ptbr/github
+
+https://stackoverflow.com/questions/42554337/cannot-launch-avd-in-emulatorqt-library-not-found
+
+https://www.youtube.com/watch?v=-jXfKDYJJvo
